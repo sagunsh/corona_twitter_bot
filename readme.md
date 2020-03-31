@@ -8,7 +8,7 @@ Requires Python 3.6 or above and access to Twitter API.
 
 1. Clone the repo
 
-        git clone <>
+        git clone https://github.com/sagunsh/corona_twitter_bot.git
         
 2. Install requirements
 
